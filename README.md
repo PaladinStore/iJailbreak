@@ -1,3 +1,3 @@
-# PaladinsStore
+# iJailbreak
  
 store repository (beta)
